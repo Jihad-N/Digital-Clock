@@ -48,6 +48,10 @@ legend{
     font-weight: bold;
     color: #144d57;
     text-align: center;
+    background-color: #f1e8fe;
+    padding: 5px 10px;
+    border: 1px solid  #2990a2;
+    border-radius: 5px;
 }
 @media only screen and (max-width: 600px) {
     #clock{
